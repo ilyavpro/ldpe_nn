@@ -1,0 +1,11 @@
+SLAVE:
+INPUT: _1841vuk.inm
+MODNAME: apmain
+RUNID: _1841vuk
+NEW_RUNID: _1841vuk
+OLD_RUNID: _1841vuk
+PDF: _1841vuk.appdf
+USERNAME: Ilya
+XMOD: C:\Program Files\AspenTech\Aspen Plus V14.0\Engine\xeq\apmain
+dlopt: userfort.dlopt
+DBCONN: _1841vuk.ads

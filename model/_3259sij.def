@@ -1,0 +1,11 @@
+SLAVE:
+INPUT: _3259sij.inm
+MODNAME: apmain
+RUNID: _3259sij
+NEW_RUNID: _3259sij
+OLD_RUNID: _3259sij
+PDF: _3259sij.appdf
+USERNAME: Ilya
+XMOD: C:\Program Files\AspenTech\Aspen Plus V14.0\Engine\xeq\apmain
+dlopt: userfort.dlopt
+DBCONN: _3259sij.ads

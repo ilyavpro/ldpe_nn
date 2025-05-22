@@ -1,0 +1,11 @@
+SLAVE:
+INPUT: _0405phi.inm
+MODNAME: apmain
+RUNID: _0405phi
+NEW_RUNID: _0405phi
+OLD_RUNID: _0405phi
+PDF: _0405phi.appdf
+USERNAME: Ilya
+XMOD: C:\Program Files\AspenTech\Aspen Plus V14.0\Engine\xeq\apmain
+dlopt: userfort.dlopt
+DBCONN: _0405phi.ads

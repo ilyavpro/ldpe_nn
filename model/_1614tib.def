@@ -1,0 +1,10 @@
+SLAVE:
+INPUT: _1614tib.inm
+MODNAME: apmain
+RUNID: _1614tib
+NEW_RUNID: _1614tib
+OLD_RUNID: _1614tib
+PDF: _1614tib.appdf
+USERNAME: Ilya
+XMOD: C:\Program Files\AspenTech\Aspen Plus V14.0\Engine\xeq\apmain
+SPONLY:
